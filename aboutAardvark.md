@@ -6,7 +6,7 @@
 This document introduces Aardvark, the new metadata application profile schema for GeoBlacklight. This schema incorporates additional fields for better descriptions of a wider range of resources, as well as syntactical updates in order to improve interoperability between institutions and between schemas.
 
 
-## Why is this called Aardvark?
+## Why is it called Aardvark?
 
 The term “aardvark” represents a new naming convention to specify metadata schema versions. This convention is intended to reduce confusion between the metadata schema version and GeoBlacklight software versions, which uses numerical-based indicators.
 
