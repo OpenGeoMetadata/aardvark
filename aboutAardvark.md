@@ -1,4 +1,4 @@
-# About Aardvark: GeoBlacklight Metadata Schema (2021)
+# About Aardvark
 
 
 ## Introducing Aardvark
