@@ -51,52 +51,38 @@ The GeoBlacklight Metadata Schema Workgroup consisted of 16 people from 12 insti
 **Workgroup Members**
 
 
-<table>
-  <tr>
-   <td>
-<ul>
+* Abigail Pennington (UC San Diego)
 
-<li>Abigail Pennington (UC San Diego)
+* Adi Ranganath (New York University)
 
-<li>Adi Ranganath (New York University)
+* Amy Work (UC San Diego)
 
-<li>Amy Work (UC San Diego)
+* Andrew Battista (New York University)
 
-<li>Andrew Battista (New York University)
+* Diane Fritz (Auraria Library)
 
-<li>Diane Fritz (Auraria Library)
+* Karen Majewicz (University of Minnesota/BTAA)
 
-<li>Karen Majewicz (University of Minnesota/BTAA)
+* Keith Jenkins (Cornell University)
 
-<li>Keith Jenkins (Cornell University)
+* Kimberly Durante (Stanford University)
 
-<li>Kimberly Durante (Stanford University)
+* Lena Denis (Johns Hopkins University)
 
-<li>Lena Denis (Johns Hopkins University)
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
+* Mara Blake (Johns Hopkins University)
 
-<li>Mara Blake (Johns Hopkins University)
+* Marc McGee (Harvard University)
 
-<li>Marc McGee (Harvard University)
+* Margaret Mering (University of Nebraska-Lincoln)
 
-<li>Margaret Mering (University of Nebraska-Lincoln)
+* Michelle Janowiecki (Johns Hopkins University)
 
-<li>Michelle Janowiecki (Johns Hopkins University)
+* Stephen Appel (University of Wisconsin-Milwaukee)
 
-<li>Stephen Appel (University of Wisconsin-Milwaukee)
+* Susan Powell (UC Berkeley)
 
-<li>Susan Powell (UC Berkeley)
+* Tom Brittnacher (UC Santa Barbara)
 
-<li>Tom Brittnacher (UC Santa Barbara)
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
 
 
 **Helpful Metadata Terminology used by the Workgroup**
